@@ -1,5 +1,8 @@
 fastapi
 uvicorn
 python-multipart
-google-generativeai
+google-generativeai>=0.7.2
 xhtml2pdf
+pypdf
+python-docx
+
